@@ -1,0 +1,28 @@
+{
+  "n_responses": 26,
+  "n_enjoyed": 22,
+  "n_volunteer": 21,
+  "activities": {
+    "Lecture / Speaker": 12,
+    "15x20": 8,
+    "Chapel": 7,
+    "Social Hour": 6,
+    "Name That Tune": 4,
+    "Porchcraft": 4,
+    "Talks on the Rocks": 3,
+    "Trivia": 3,
+    "Stevie Wonder Night": 3,
+    "Walking the island": 3
+  },
+  "volunteer_areas": {
+    "Communication": 11,
+    "Food Events": 6,
+    "Community/Games": 5,
+    "Creative": 5,
+    "Social Hour": 4,
+    "Spiritual/Wellness": 4,
+    "Education": 3,
+    "Entertainment": 3,
+    "Banquet": 2
+  }
+}
