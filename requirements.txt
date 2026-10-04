@@ -1,0 +1,13 @@
+# Runtime dependencies for star_island.
+#
+# Keep this list in sync with install_requires in setup.py.
+
+# Core scientific stack
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+tqdm
+IPython
+pytest
